@@ -29,3 +29,4 @@ Have questions or suggestions? Reach out to Likhon Sheikh at [likhon@likhonscrip
 ---
 
 *LikhonScripts/.github is a special repository. This README.md will appear on your public organization profile, visible to anyone.*
+- **Reach Out to Likhon:** For inquiries or suggestions, contact Likhon Sheikh directly on Telegram: [LikhonWTF](https://t.me/LikhonWTF).
